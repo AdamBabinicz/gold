@@ -1,0 +1,49 @@
+.works {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9));
+  overflow: hidden;
+}
+.cards {
+  min-height: 200px;
+  padding: 20px;
+  background: rgba(204, 204, 204, 0.301);
+  /* cursor: pointer; */
+}
+.cards h3 {
+  color: rgb(211, 179, 36);
+  text-decoration: underline;
+}
+.cards p {
+  margin-block: 1rem;
+  color: rgb(204, 204, 204);
+  transition: all 0.4s ease;
+}
+.long {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+.cards:hover p {
+  color: #fff;
+}
+
+@media only screen and (min-width: 900px) {
+  .works__container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
+    padding: 20px;
+    margin-block: 1rem;
+    gap: 1rem;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .works__container {
+    padding: 20px;
+    gap: 2rem;
+  }
+  .cards {
+    margin-block: 1rem;
+  }
+}
