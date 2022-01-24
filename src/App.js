@@ -4,7 +4,7 @@ import Home from "./components/Home";
 import Contact from "./components/Contact";
 import ScrollToTop from "./ScrollToTop";
 import Scroll from "./Scroll";
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 
 function App() {
   return (

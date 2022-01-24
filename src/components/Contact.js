@@ -9,7 +9,7 @@ import Footer from "./Footer";
 const Contact = () => {
   return (
     <>
-      <div className="contact">
+      <div className="contact" id="kontakt">
         <Link to="/" className="a-icon">
           <BsArrowLeftSquareFill className="icon" />
         </Link>
