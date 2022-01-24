@@ -90,7 +90,7 @@
     flex-direction: column-reverse;
     justify-content: center;
   }
-  .section__img {
+  .section__img img {
     width: 220px;
   }
   .section__content {
