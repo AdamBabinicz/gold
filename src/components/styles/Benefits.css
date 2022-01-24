@@ -70,6 +70,9 @@
     padding: 10px;
     gap: 1rem;
   }
+  .benefits__content h2 {
+    font-size: 40px;
+  }
   .benefits__content p {
     color: #fff;
     margin-top: 1rem;
