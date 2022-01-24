@@ -32,6 +32,7 @@
   text-transform: uppercase;
   font-size: 14px;
   color: #fff;
+  margin-bottom: 2rem;
 }
 
 @media only screen and (max-width: 50em) {
@@ -49,7 +50,6 @@
     gap: 3rem;
     list-style: none;
     background: rgba(204, 204, 204, 0.623);
-    background: rgb(196, 133, 248);
     z-index: 999;
     transform: translateX(100%);
     transition: 450ms;
