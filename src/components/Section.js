@@ -56,13 +56,11 @@ const Section = () => {
               Złoto jest często wspominane w Starym Testamencie, rozpoczynając
               od Księgi Rodzaju 2, 11 (o Havilah) oraz jest jednym z darów
               mędrców (Trzech Królów) w pierwszych rozdziałach Nowego
-              Testamentu, w Ewangelii według Mateusza. Apokalipsa świętego Jana
-              21, 21 opisuje miasto Nowe Jeruzalem jako mające rynek Miasta to
-              czyste złoto jak szkło przeźroczyste. Południowo-wschodni obszar
-              Morza Czarnego był znany ze swojego złota. Wydobycie złota datuje
-              się tam od czasu króla Midasa i tamtejsze złoto prawdopodobnie
-              było wykorzystane w pierwszym na świecie biciu monet w Lidii, tzw.
-              „lwów lidyjskich” około 610 r. p.n.e.
+              Testamentu, w Ewangelii według Mateusza. Południowo-wschodni
+              obszar Morza Czarnego był znany ze swojego złota. Wydobycie złota
+              datuje się tam od czasu króla Midasa i tamtejsze złoto
+              prawdopodobnie było wykorzystane w pierwszym na świecie biciu
+              monet w Lidii, tzw. „lwów lidyjskich” około 610 r. p.n.e.
             </p>
             <br />
             <p>
