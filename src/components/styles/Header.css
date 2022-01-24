@@ -12,8 +12,8 @@
 @media only screen and (min-width: 50em) {
   .list__items {
     display: flex;
-    /* padding-inline: 2rem;
-    padding-block: 1.5rem; */
+    padding-inline: 2rem;
+    padding-block: 1.5rem;
     gap: 3rem;
     list-style: none;
     background: rgba(204, 204, 204, 0.301);
@@ -38,13 +38,14 @@
   .list__items {
     display: flex;
     flex-direction: column;
-    position: absolute;
+    position: fixed;
     inset: 0 0 0 40%;
     align-items: center;
     justify-content: center;
     gap: 3rem;
     list-style: none;
     background: rgba(204, 204, 204, 0.623);
+    background: red;
     z-index: 999;
     transform: translateX(100%);
     transition: 450ms;
