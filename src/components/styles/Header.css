@@ -12,14 +12,13 @@
 @media only screen and (min-width: 50em) {
   .list__items {
     display: flex;
-    padding-inline: 2rem;
-    padding-block: 1.5rem;
+    /* padding-inline: 2rem;
+    padding-block: 1.5rem; */
     gap: 3rem;
     list-style: none;
     background: rgba(204, 204, 204, 0.301);
     backdrop-filter: blur(0.3rem);
     margin: 0;
-    position: relative;
   }
   .menu__icon {
     display: none;
