@@ -47,7 +47,7 @@
     gap: 3rem;
     list-style: none;
     background: rgba(204, 204, 204, 0.623);
-    background: rgb(56, 56, 56);
+    background: rgb(248, 133, 133);
     z-index: 999;
     transform: translateX(100%);
     transition: 450ms;
