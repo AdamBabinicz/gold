@@ -19,7 +19,6 @@
     background: rgba(204, 204, 204, 0.301);
     backdrop-filter: blur(0.3rem);
     margin: 0;
-    width: 100%;
   }
   .menu__icon {
     display: none;
@@ -50,6 +49,7 @@
     z-index: 999;
     transform: translateX(100%);
     transition: 450ms;
+    overflow: hidden;
   }
   .list__items.active {
     transform: translateX(0);
