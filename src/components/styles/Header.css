@@ -32,7 +32,6 @@
   text-transform: uppercase;
   font-size: 14px;
   color: #fff;
-  margin-bottom: 2rem;
 }
 
 @media only screen and (max-width: 50em) {
@@ -54,7 +53,9 @@
     transform: translateX(100%);
     transition: 450ms;
   }
-
+  nav ul li {
+    padding-bottom: 3rem;
+  }
   .list__items.active {
     transform: translateX(0);
     transition: 450ms;
