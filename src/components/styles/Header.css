@@ -35,9 +35,6 @@
 }
 
 @media only screen and (max-width: 50em) {
-  nav {
-    position: relative;
-  }
   .list__items {
     display: flex;
     flex-direction: column;
