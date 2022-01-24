@@ -3,7 +3,6 @@
   align-items: center;
   justify-content: space-between;
   padding: 10px;
-  position: relative;
 }
 .header__logo svg {
   font-size: 5rem;
@@ -20,6 +19,7 @@
     background: rgba(204, 204, 204, 0.301);
     backdrop-filter: blur(0.3rem);
     margin: 0;
+    position: relative;
   }
   .menu__icon {
     display: none;
@@ -39,7 +39,7 @@
   .list__items {
     display: flex;
     flex-direction: column;
-    position: fixed;
+    position: absolute;
     inset: 0 0 0 40%;
     align-items: center;
     justify-content: center;
