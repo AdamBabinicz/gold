@@ -62,8 +62,7 @@ const Section = () => {
               Morza Czarnego był znany ze swojego złota. Wydobycie złota datuje
               się tam od czasu króla Midasa i tamtejsze złoto prawdopodobnie
               było wykorzystane w pierwszym na świecie biciu monet w Lidii, tzw.
-              „lwów lidyjskich” około 610 r. p.n.e. Od VI do V wieku p.n.e.
-              państwo Chu miało w obiegu monetę Ying Yuan .
+              „lwów lidyjskich” około 610 r. p.n.e.
             </p>
             <br />
             <p>
