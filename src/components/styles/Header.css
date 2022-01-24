@@ -34,7 +34,7 @@
   color: #fff;
 }
 
-@media only screen and (max-width: 50em) {
+@media only screen and (max-width: 500px) {
   .list__items {
     display: flex;
     flex-direction: column;
